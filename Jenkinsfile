@@ -4,7 +4,7 @@ ipeline {
     stages {
         stage('echo') {
             steps {
-               echo " branch no.2 "
+               echo " branch no.1 "
             }
         }
     }
